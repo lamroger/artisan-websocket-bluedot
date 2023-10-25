@@ -1,0 +1,16 @@
+{
+  "name": "thermo-websocket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@abandonware/noble": "^1.9.2-23",
+    "ws": "^8.14.2"
+  }
+}
