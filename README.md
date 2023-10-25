@@ -12,7 +12,7 @@ When roasting coffee beans, it's important to monitor the temperature of the bea
 
 Artisan is a free, open-source software that allows you to monitor the temperature of the beans as they roast.
 
-While it's not required, it's certainly very helpful to automatically log the temperature and other data from the roast.  Artisan can do this, but it requires a device that can connect to the thermometer and send the data to Artisan.  This script allows you to use a Thermoworks Bluedot thermometer to send the data to Artisan through a websocket connection.
+This script allows you to use a Thermoworks Bluedot thermometer to send the data to Artisan through a websocket connection.
 
 ## Getting Started
 
